@@ -1,0 +1,13 @@
+.collapse{
+    display: flex;
+    justify-content: center;
+}
+
+#TiendadeRopa{
+    display: flex;
+    justify-content: center;
+}
+
+.input-group-text{
+    font-size: 8rem;
+}
